@@ -77,8 +77,14 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 
-<img src="screenshots/ebrary.png"/>
-<img src="screenshots/home.png"/>
-<img src="screenshots/ebookone.png"/>
-<img src="screenshots/ebooktwo.png"/>
-<img src="screenshots/ebookthree.png"/>
+<div align="center">
+<table>
+  <tr>
+    <td valign="top"><img src="screenshots/home.png"/></td>
+    <td valign="top"><img src="screenshots/ebrary.png"/></td>
+    <td valign="top"><img src="screenshots/ebookone.png"/></td>
+    <td valign="top"><img src="screenshots/ebooktwo.png"/></td>
+   <td valign="top"><img src="screenshots/ebookthree.png"/></td>
+    </tr>
+</table>
+</div>
